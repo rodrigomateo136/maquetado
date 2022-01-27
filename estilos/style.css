@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.rojo{
+    background: red;
+    padding: 20px;
+    border: solid 2px black;
+}
+.amarillo{
+    background: yellow;
+    padding: 20px;
+    border: solid 2px black;
+}
+.verde{
+    background: green;
+    padding: 20px;
+    border: solid 2px black;
+}
+.azul{
+    background: rgb(54, 54, 212);
+    padding: 20px;
+    border: solid 2px black;
+    color: blanchedalmond;
+}
+footer{
+    background: pink;
+    padding: 20px;
+    border: solid 2px black;
+}
